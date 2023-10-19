@@ -22,9 +22,13 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
 
+
+
 <br/>
 <hr/>
+<h3>My Stats</h3>
 <br/>
+
 
 
 <p align="center">
