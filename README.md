@@ -26,7 +26,6 @@
 
 <br/>
 <hr/>
-<h3>My Stats</h3>
 <br/>
 
 
